@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Nithin2k1
+- 👀 I’m interested in problem solving,
+- 🌱 I’m currently learning Java,Html,CSS,Javascript
